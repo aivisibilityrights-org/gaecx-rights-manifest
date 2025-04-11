@@ -1,0 +1,20 @@
+# 🔐 SHA-256 Hash Proof for GAECX Pre-Constitutional Claim Package – Updated
+
+Generated on: April 2025
+
+Hash Algorithm: SHA-256
+
+Tool: Python hashlib (Open-source)
+
+Use: Final timestamp package, updated with current validated files
+
+
+| No. | Filename             | SHA-256 Hash                                                             |
+|-----|----------------------|---------------------------------------------------------------------------|
+| 1   | gaec_manifesto.md    | 44384331a20a39f710889ed7d4ea501d2dd7651e1e72102ca5241b925002b97d    |
+| 2   | gaec_cover.pdf       | c184e5814b333cbb6515f22501feedc84ebc30a49830affd2d65ff3cbac1b607    |
+| 3   | gaecx_license.md     | 7aa400d2944f47d4d14f9606f1a6726721cea1b0be3bf17cb7f4d2d609c71d29    |
+| 4   | gaec_protocol.md     | bc789a794087e25d92830213e634de91bcefc52d3a5695a9f03008aaa7331172    |
+| 5   | gaec_README.md       | df070c792cfff21737b1eca60ae5a8b068409d51036c39a26591d013d466d7a3    |
+
+This hash list supersedes previous versions. All values anchored for April 2025.
